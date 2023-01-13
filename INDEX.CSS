@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+li{
+    text-align: center;
+    margin: 20px;
+
+}
+
+#twit{
+    color: aqua;
+
+}
+
+#face{
+    color: blue;
+}
+#cat{
+    color: pink;
+}
+

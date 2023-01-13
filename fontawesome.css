@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section{
+    padding: 30px;
+    background-color: white;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+li{
+    display: inline;
+    margin: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(95, 86, 86);
+}
+
+ul{
+    float: left;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+#arrow{
+    margin-left: 280px;
+}
+
+h1{
+    text-align: left;
+    padding-top: 153px;
+    padding-left: 80px;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: left;
+    padding-left: 85px;
+    padding-top:43px;
+    justify-content: space-evenly;
+    font-size: larger;
+
+}
+
+#flag{
+    padding-right: 50px;
+}
+
+img{
+    padding-left: 650px;
+    margin-top: -199px;
+}
+
+
+#second{
+    background-color: rgb(247, 243, 243);
+    width: 980px;
+    height: 170px;
+    margin-top: -43px;
+    margin-left: 49px;
+    border-radius: 15px;
+    padding: 15px;
+    
+    
+}
+
+#second h5{
+    padding-left: 48px;
+    padding-top: 30px;
+    color: rgb(111, 108, 108);
+    font-size: 15px;
+    letter-spacing: 1px;
+    
+}
+
+#mail{
+    width: 400px;
+    margin-left: 48px;
+    padding-top: 17px;
+    padding-left: 19px;
+    padding-bottom: 17px;
+    width: 600px;
+    border-radius: 10px;
+    border: 1px solid rgb(168, 160, 160);
+    letter-spacing: 1px;
+    
+}
+
+button{
+    width: 250px;
+    padding-top: 17px;
+    padding-bottom: 14px;
+    border-radius: 10px;
+    background-color: rgb(254, 197, 52);
+    box-shadow:rgb(2.5, 2.5, 100) 0px 4px 1px;
+    font-size: 14px;
+}
+
+
+#last{
+    margin-left: 410px;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+#final{
+    text-decoration: underline;
+    font-size: 15px;
+    
+    margin-left: 50px;
+    
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
